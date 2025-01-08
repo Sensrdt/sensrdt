@@ -7,7 +7,7 @@ Hi there <img alt="Night Coding" src="https://media.giphy.com/media/hvRJCLFzcasr
 💡 &nbsp;I like to explore new technologies to build software solutions.\
 💻 &nbsp;I'm also a startup enthusiast.\
 ✍️ &nbsp;Currently working as a Software Engineer at [Economize cloud](https://economize.cloud/).\
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/15KgRwBdA4FwGlwu6vdUE6Y7242yXByLq/view?usp=sharing) for more details about me.\
+📄 &nbsp;Please have a look at my [Resume]([https://drive.google.com/file/d/15KgRwBdA4FwGlwu6vdUE6Y7242yXByLq/view?usp=sharing](https://drive.google.com/file/d/1tvcw79RVx-YxzHq1tFO03F14ZCyZEAtW/view?usp=sharing)) for more details about me.\
 💬 &nbsp;Feel free to reach out to me for consulting or volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at stsdutta2@gmail.com!
 
